@@ -1,2 +1,0 @@
-本地调试要先启动zooKeeper再启动kafka创建好自己的主题
-配置文件方式有两种properties和yml根据自己选择默认执行方式是properties-->yml顺序加载只要文件存在属性立刻返回
